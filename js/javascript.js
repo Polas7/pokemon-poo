@@ -42,7 +42,5 @@ var Dragonite = new Pokemon ("Dragonite", "mostaza", 100)
       var resultado = (luchador1+ " uso ataque rapido en " + luchador2 + " y es muy eficaz! " + luchador2 + " tiene una vida de: "+ pokenew2.vida);
       contenedor.innerHTML = resultado
    }
-
-
- }
+ };
 
